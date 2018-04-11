@@ -1,0 +1,112 @@
+[
+    {
+        "tag": "ciao",
+        "answer": "Ciao, sono FermiBot l'assistente personale della piattaforma. In cosa posso esserti utile?"
+    },
+    {
+        "tag": "salve",
+        "answer": "Salve, sono FermiBot l'assistente personale della piattaforma. In cosa posso esserle utile?"
+    },
+    {
+        "tag": "buongiorno",
+        "answer": "Buongiorno, sono FermiBot l'assistente personale della piattaforma. In cosa posso esserle utile?"
+    },
+    {
+        "tag": "buonasera",
+        "answer": "Buonasera, sono FermiBot l'assistente personale della piattaforma. In cosa posso esserle utile?"
+    },
+
+    {
+        "tag": "sicurezza",
+        "answer": "Se hai notato un accesso sospetto cambia la password o contatta il numero 800-560 per avere maggiori informazioni."
+    },
+    {
+        "tag": "accesso",
+        "answer": "Se hai notato un accesso sospetto <a href='profilo.php'>cambia la password</a> o contatta il numero 800-560 per avere maggiori informazioni."
+    },
+    {
+        "tag": "accesso non autorizzato",
+        "answer": "Se hai notato un accesso sospetto cambia la password o contatta il numero 800-560 per avere maggiori informazioni."
+    },
+    {
+        "tag": "accesso sospetto",
+        "answer": "Se hai notato un accesso sospetto cambia la password o contatta il numero 800-560 per avere maggiori informazioni."
+    },
+    {
+        "tag": "un'attività sospetta",
+        "answer": "Se hai notato un accesso sospetto cambia la password o contatta il numero 800-560 per avere maggiori informazioni."
+    },
+
+    {
+        "tag": "cambio password",
+        "answer": "Se devi cambiare alcuni dati devi compilare tutto il form cambiando solo i dati che desideri modificare."
+    },
+    {
+        "tag": "cambio dati",
+        "answer": "Se devi cambiare alcuni dati devi compilare tutto il form cambiando solo i dati che desideri modificare."
+    },
+    {
+        "tag": "modificare dati",
+        "answer": "Se devi cambiare alcuni dati devi compilare tutto il form cambiando solo i dati che desideri modificare."
+    },
+    {
+        "tag": "modificare i dati",
+        "answer": "Se devi cambiare alcuni dati devi compilare tutto il form cambiando solo i dati che desideri modificare."
+    },
+    {
+        "tag": "modificare il profilo",
+        "answer": "Se devi cambiare alcuni dati devi compilare tutto il form cambiando solo i dati che desideri modificare."
+    },
+
+    {
+        "tag": "numero assistenza",
+        "answer": "Per contattare l'assistenza può chiamare il numero 800-560 o inviare una e-mail a assistenza@chat.it."
+    },
+    {
+        "tag": "assistenza",
+        "answer": "Per contattare l'assistenza può chiamare il numero 800-560 o inviare una e-mail a assistenza@chat.it."
+    },
+
+    {
+        "tag": "orario apertura",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "apertura sportell",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "apertura filial",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "aperta la filiale",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "aperto lo sportello",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "aprono gli sportelli",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+
+    {
+        "tag": "aperto lo sportello",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "aperto lo sportello",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+    {
+        "tag": "aperto lo sportello",
+        "answer": "Gli orari degli sportelli sono:<br>Lunedì-Venerdì: 8:00-18:00<br>Sabato: 8:00-12:00."
+    },
+
+    {
+        "tag": "grazie",
+        "answer": "E' un piacere, l'assistenza resta sempre a disposizione."
+    }
+]
