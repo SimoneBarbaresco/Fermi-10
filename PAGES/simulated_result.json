@@ -1,0 +1,38 @@
+{
+    "languageDetection": {
+        "documents": [
+            {
+                "id": "6e651871-3e57-4bdc-b4c0-0b38cf5e12de",
+                "detectedLanguages": [
+                    {
+                        "name": "English",
+                        "iso6391Name": "en",
+                        "score": 1.0
+                    }
+                ]
+            }
+        ],
+        "errors": []
+    },
+    "keyPhrases": {
+        "documents": [
+            {
+                "id": "6e651871-3e57-4bdc-b4c0-0b38cf5e12de",
+                "keyPhrases": [
+                    "prova1",
+                    "abcdefg"
+                ]
+            }
+        ],
+        "errors": []
+    },
+    "sentiment": {
+        "documents": [
+            {
+                "id": "6e651871-3e57-4bdc-b4c0-0b38cf5e12de",
+                "score": 0.9552919864654541
+            }
+        ],
+        "errors": []
+    }
+}
