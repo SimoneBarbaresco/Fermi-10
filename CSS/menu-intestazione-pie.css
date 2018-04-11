@@ -1,0 +1,142 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+    font-family: 'Open Sans';
+    font-size: 1vw;
+    background-image: url('../IMAGES/1.png');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 3.5vw;
+    font-weight: 900;
+}
+
+.nome{
+    position: relative;
+    width: 100%;
+    height: 13%;
+    color: #33363B;
+    background-color: #269e84;
+    text-align: center;
+    margin-top: -14%;
+}
+
+.menu_laterale{
+    position: fixed;
+    width: 17%;
+    height: 75%;
+    top: 0%;
+    left: 0%;
+    background-color: #33363B;
+    z-index: 1;
+    box-shadow: 0px 0px 11px #33363B;
+}
+
+.corpo_principale{
+    position: absolute;
+    z-index: 10;
+    width: 83%;
+    height: 100%;
+    top: 0%;
+    left: 17%;
+    margin-top: 0%;
+    z-index: 0;
+}
+
+.pie_pagina{
+    position: fixed;
+    background-color: #33363B;
+    top: 75%;
+    left: 0%;
+    width: 17%;
+    height: 34%;
+    border-top: 1px solid  #1b1c1f;
+    z-index: 1;
+    box-shadow: 0px 0px 11px #33363B;
+}
+
+.lista{
+    position: relative;
+    list-style-type: none;
+	width: 96%;
+    height: 10%;
+    background-color: #33363B;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 4%;
+}
+
+ul{
+    padding: 0%;
+}
+
+a{
+    color: #a8a8a8;
+    text-decoration: none;
+}
+
+h4{
+    color: #a8a8a8;
+    padding-left: 9%;
+    font-size: 0.85vw;
+}
+
+.opzioni{
+    border-top: 1.5px solid  #1b1c1f;
+}
+
+.area_personale{
+    border-top: 1.5px solid  #1b1c1f;
+}
+
+.timbro{
+    font-size: 0.75vw;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.area_utente{
+    position: relative;
+    width: 100%;
+    height: 10%;
+}
+
+.immagine_utente{
+    position: relative;
+    margin-right: 2%;
+    width: 100%;
+    height: 100%;
+}
+
+.nome_utente{
+    position: absolute;
+    left: 0%;
+    color: #a8a8a8;
+    padding: 5%;
+    width: 15%;
+    height: 15%;
+}
+
+.tabella{
+    width: 100%;
+    
+    margin-top: 2%;
+    padding-left: 2%;
+}
+
+tr, td{
+    color: #ffffff;
+}
+
+.colonna_1{
+    width: 80%;
+}
+
+.colonna_2{
+    width: 20%;
+}

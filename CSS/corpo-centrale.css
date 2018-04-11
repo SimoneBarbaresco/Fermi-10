@@ -1,0 +1,179 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+.contenuto{
+    position: relative;
+    height: 32%;
+    width: 23%;
+    margin: auto;
+    margin-top: 14%;
+    padding-top: 0.5%;
+    padding-bottom: 2.5%;
+    z-index: 4;
+}
+
+.contenuto:before{
+	content: " ";
+	position: absolute;
+	top: 0; 
+	left: 0;
+	width: 100%; 
+	height: 100%;
+	opacity: 0.8; 
+	z-index: -1;
+}
+
+.corpo_principale{
+	position: fixed;
+	top: 0.9%;
+	height: 10%;
+	z-index: 10;
+	width: 101%;
+    margin-left: -1%;
+}
+
+.blur{
+	background: url('../IMAGES/1.png') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-filter: blur(4px);
+	filter: blur(4px);
+    position: absolute;
+    margin-left: 36%;
+    margin-right: auto;
+    margin-top: 14%;
+	height: 37.5%;
+    width: 23%;
+    z-index: 2;
+}
+
+.black{
+    background-color: #33363B;
+    position: absolute;
+    margin-left: 36%;
+    margin-right: auto;
+    margin-top: 14%;
+	height: 37.5%;
+    width: 23%;
+    opacity: 0.9;
+    z-index: 3;
+}
+
+.titoli{
+    height: 5%;
+    margin-left: 6%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #269e84;
+}
+
+.input-login{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #c0392b;
+    font-size: 0.9vw;
+    font-weight: 50; 
+    color: #d3d3d3;
+    width: 60%;
+    margin-left: 6%;
+    text-align: center;
+}
+
+.codice{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #c0392b;
+    font-size: 0.9vw;
+    font-weight: 50; 
+    color: #d3d3d3;
+    text-align: center;
+    width: 30%;
+    z-index: 1;
+    opacity: 0;
+    margin-top: 5%;
+}
+
+.input-login2{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #c0392b;
+    font-size: 0.9vw;
+    font-weight: 50; 
+    color: #d3d3d3;
+    width: 40%;
+    margin-left: 6%;
+    text-align: center;
+    z-index: 1;
+    opacity: 0;
+    margin-top: 5%;
+}
+
+.copertura{
+    position: absolute;
+    background-color: #000000;
+    z-index: 2;
+    width: 90%;
+    height: 20%;
+    margin-left: -2%;
+    top: 80%;
+    background-color: transparent;
+    opacity: 1;
+}
+
+.accedi{
+    position: absolute;
+    width: 30%;
+    padding: 1%;
+    font-size: 0.95vw;
+    font-weight: 550;
+    border: none;
+    background-color: #269e84;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    top: 83%;
+    margin-left: -20%;
+    z-index: 10;
+}
+
+.accedi:hover {
+    background-color: #c0392b;
+    color: #000000;
+}
+
+.password{
+    font-size: 0.7vw;
+    color: #a8a8a8;
+    margin-left: 6%;
+    margin-bottom: 10%;
+    cursor: pointer;
+}
+
+option{
+    background-color: #33363B;
+}
+
+select{
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    color: #d3d3d3;
+    z-index: -5;
+    opacity: 0;
+    margin-top: -5%;
+}
+
+.domande{
+    color: #a8a8a8;
+    margin-left: 6%;
+    margin-bottom: 10%;
+    cursor: pointer;
+    z-index: 0;
+    opacity: 0;
+    font-size: 0.7vw;
+}
+
+.messaggio{
+    position: absolute;
+    color: #c0392b;
+    font-size: 0.80vw;
+    text-align: center;
+    bottom: -3.5%;
+}
